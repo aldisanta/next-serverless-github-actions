@@ -1,4 +1,4 @@
-name: CI
+name: Lambda Deployments
 on:
   push:
     branches: [ main ]

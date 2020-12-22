@@ -1,17 +1,17 @@
 {
-  "name": "vkpkyzl-k2tjzsa",
-  "hash": "IcatxMFMJcYgy0LutL8u09sj9qbRhk/c/lLNV2cVEi8=",
+  "name": "bcx7bb9-b3e9qt",
+  "hash": "vd1V1lUGEEFp7CqNr63ZkGvOikQlSaYn2t4uoU4rLnk=",
   "description": "Default Lambda@Edge for Next CloudFront distribution",
   "memory": 512,
   "timeout": 10,
-  "code": "/Users/dabit/temp/delete/next-github-actions/.serverless_nextjs/default-lambda",
+  "code": "/Users/spl-aldi/Developer/aldisanta/next-serverless-github-actions/.serverless_nextjs/default-lambda",
   "shims": [],
   "handler": "index.handler",
   "runtime": "nodejs12.x",
   "env": {},
   "role": {
-    "arn": "arn:aws:iam::557458351015:role/vkpkyzl-jq4widv"
+    "arn": "arn:aws:iam::644878733650:role/bcx7bb9-286bju"
   },
-  "arn": "arn:aws:lambda:us-east-1:557458351015:function:vkpkyzl-k2tjzsa",
+  "arn": "arn:aws:lambda:us-east-1:644878733650:function:bcx7bb9-b3e9qt",
   "region": "us-east-1"
 }

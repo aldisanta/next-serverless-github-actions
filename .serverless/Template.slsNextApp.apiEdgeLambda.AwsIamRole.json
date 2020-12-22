@@ -1,9 +1,9 @@
 {
-  "name": "vkpkyzl-sch9xql",
-  "arn": "arn:aws:iam::557458351015:role/vkpkyzl-sch9xql",
+  "name": "bcx7bb9-x0ueobi",
+  "arn": "arn:aws:iam::644878733650:role/bcx7bb9-x0ueobi",
   "service": [
-    "edgelambda.amazonaws.com",
-    "lambda.amazonaws.com"
+    "lambda.amazonaws.com",
+    "edgelambda.amazonaws.com"
   ],
   "policy": {
     "Version": "2012-10-17",
@@ -19,7 +19,7 @@
       },
       {
         "Effect": "Allow",
-        "Resource": "arn:aws:s3:::vkpkyzl-44b9gx/*",
+        "Resource": "arn:aws:s3:::bcx7bb9-baf6ilz/*",
         "Action": [
           "s3:GetObject",
           "s3:PutObject"
